@@ -1,2 +1,2 @@
 # UBFM
- support: admin@realtimebasecamp.com
+ support: support@realtimebasecamp.com
